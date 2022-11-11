@@ -1,0 +1,10 @@
+*~
+.*~
+.DS_Store
+.localized
+.idea
+.env
+*.log
+*.pyc
+*.pyo
+__pycache__
